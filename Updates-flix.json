@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "title": "تحديث جديد متوفر",
+  "description": "تحسينات وإصلاحات جديدة",
+  "features": ["تحسين الأداء", "إضافة ميزات جديدة"],
+  "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.1.0/FLIX.apk",
+  "mandatory": false,
+  "sha256": ""
+}
